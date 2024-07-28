@@ -55,7 +55,7 @@ include 'config.php';
                                     <a href="#"  class="hidden-xs hidden-sm">الأنواع </a>
                                 </li>
                                 <li>
-                                    <a href="#"  class="hidden-xs hidden-sm"> النشظة</a>
+                                    <a href="#"  class="hidden-xs hidden-sm"> الأنظمة </a>
                                 </li>
                                 <li>
                                     <a href="#"  class="hidden-xs hidden-sm">المدراء </a>
